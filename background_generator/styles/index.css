@@ -1,0 +1,35 @@
+*{
+
+    font-family: sans-serif;
+}
+body{
+    margin:0;
+    padding:0;
+    background: #283faa;
+    display: grid;
+    place-items: center;
+}
+.color{
+    margin-top: 300px;
+    text-align: center;
+}
+#code{
+    display: block;
+    color: white;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+button{
+    padding:10px 20px;
+     margin:0 auto;
+    width: 200px;
+    font-size:20px;
+    font-weight:bolder;
+    border: 2px solid lightgrey;
+    border-radius: 30px;
+    background-color:  transparent ;
+    cursor: pointer;
+    color:aliceblue;
+}
+
+
